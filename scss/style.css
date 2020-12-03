@@ -1,0 +1,32 @@
+table {
+	color: blueviolet;
+	border-radius: 12px;
+	border: 2px solid red;
+}
+
+.hey {
+	color: purple;
+}
+#ideveloper {
+	font-weight: bold;
+} 
+
+html tr {
+	color: black;
+} 
+
+.list > li {
+	color: blue;
+}
+
+.font-size-md {
+	font-size: 18px;
+}
+
+.font-size-md.color-red {
+	color: red;
+}
+
+.font-size-md.color-grey {
+	color: grey;
+}
